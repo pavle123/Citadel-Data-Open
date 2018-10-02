@@ -4,5 +4,4 @@ This repo contains the final report produced that won 2nd place and 2.5K. I comp
 
 ## Topic Question: What actionable insights can we make to improve water quality in California? 
 
-The report was divide into 3 parts: 
-- 
+
